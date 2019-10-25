@@ -12,6 +12,6 @@ Open Banking &amp; PSD2
 7. Select Tunnel & wait till ipaddress change to url and bundles happens
 
 
-
+-- Updated by Sanjay
 Optional Genymotion
 
